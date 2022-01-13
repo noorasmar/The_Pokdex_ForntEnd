@@ -1,4 +1,4 @@
-# The_Pokdex_ForntEnd
+# The_Pokdex_FrontEnd
 This is Landing Page For Pokemon to use an api (poke api) to get all data about pokemon.
 
 
