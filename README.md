@@ -4,6 +4,7 @@ This is Landing Page For Pokemon to use an api (poke api) to get all data about 
 
 to show preview use this __*link*__ :
 https://noorasmar.github.io/The_Pokedex_ForntEnd/Index.html#list-pokemon
+<a href="https://noorasmar.github.io/The_Pokedex_ForntEnd/Index.html#list-pokemon" target="_blank">Hello, world!</a>
 
 ## Downloud
 you just need to make fork and clone 
